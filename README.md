@@ -1,3 +1,14 @@
+In this Scenario . 
+I have used the public API (https://jsonplaceholder.typicode.com/photos)
+I just displayed the title names from the API.
+I just added the Seach Bar for searching functionality using filter method.
+I created it Responsively which is fit for different size type of devices.
+I just added some styles to thye list items like changing the font size and font style and putting background colour for the listed items.
+In this I also added the loading functionality , It will shows three dots which means it loading the files while we are fetching the data from the server.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
